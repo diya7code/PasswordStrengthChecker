@@ -10,3 +10,6 @@ This program takes a password as input and evaluates its strength based on lengt
 4. Cybersecurity Tools – Can be integrated into security software to help users assess their password strength.
 
 5. Educational Purposes – Used in coding exercises to teach string manipulation and security concepts.
+6.
+7.
+8. (Not finalized.Planning to add more features) 
